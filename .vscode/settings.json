@@ -1,0 +1,5 @@
+{
+  "typescript.suggest.enabled": false,
+  "typescript.suggest.includeAutomaticOptionalChainCompletions": false,
+  "typescript.surveys.enabled": false,
+}
